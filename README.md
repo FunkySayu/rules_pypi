@@ -1,9 +1,7 @@
-# rules_pypi
+# Pypi rules
 
-[![Build Status](https://travis-ci.org/gengo/rules_pypi.svg?branch=master)](https://travis-ci.org/gengo/rules_pypi)
+Management of Python dependencies through Bazel.
 
-Status: proof of concept
-
-See more about discussions behind at [bazelbuild/bazel#699](https://github.com/bazelbuild/bazel/issues/699)
-
-See `WORKSPACE` and `examples/` directory for examples.
+IMPORTANT NOTE: This repository is a fork of [gengo/rules_pypi][origin]
+designed to be use in the [FunkySayu/PowerSpikeGG][psgg] repository. Please
+refere to the original repository for more informations.
